@@ -21,7 +21,7 @@ export const About = () => {
         <a href="https://www.linkedin.com/in/clclvr">
           <FaLinkedin className="social-icon" />
         </a>
-        <a href="#">
+        <a href="https://github.com/CalleCleverborn">
           <FaGithub className="social-icon" />
         </a>
       </div>

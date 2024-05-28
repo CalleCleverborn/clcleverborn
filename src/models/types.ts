@@ -23,6 +23,7 @@ export type SelfItem = {
 export type ProjectItem = {
   id: number; 
   title: string;
+  url: string;
   imageUrl: string;
   description: string;
 }

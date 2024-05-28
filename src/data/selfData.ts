@@ -1,4 +1,4 @@
 import { SelfItem } from "../models/types";
 
-export const selfData: SelfItem = {greeting: "Hello I'm Carl Cleverborn", occupation: "Studying Web-Development at Medieinstitutet", description: "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Est perferendis nihil fuga doloremque sunt eaque accusantium voluptatum nulla eveniet ea, modi culpa molestias velit. Impedit similique consequatur blanditiis explicabo ducimus!"}
+export const selfData: SelfItem = {greeting: "Hello I'm Carl Cleverborn", occupation: "Studying Web-Development at Medieinstitutet", description: "Hi, I'm Carl! Currently, I'm studying web development within E-commerce. My background is broad, with experience ranging from service jobs to IT projects, which gives me a unique insight into user needs and technical solutions. My future goal is to develop web projects that improve and exceed the user experience."}
     
